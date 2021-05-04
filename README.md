@@ -1,11 +1,14 @@
 # JUDUL_PROYEK
 
 Anggota Kelompok:
-* NAMA (NPM)
-* NAMA (NPM)
-* NAMA (NPM)
+* RANGGA PUTRA (140810200007)
+* WILDAN HANIF M (140810200051)
+* M. DAVIO ATHALLAH (140810200063)
 ---
 ## Latar Belakang
+   Struktur data adalah cara penyimpanan, pengorganisasian, dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Terdapat berbagai tipe struktur data. Dalam penerapan struktur data, dapat diimplementasikan pada sistem antrian. Sistem antrian sederhana bisa saja tidak efektif ketika jumlah pelanggan memenuhi kapasitas yang bisa ditangani. Hal tersebut dapat menyebabkan terjadinya kesalah  yang dapat memberikan dampak buruk bagi suatu perusahaan.
+   Makalah ini dimaksudkan untuk membahas mengenai pembuatan aplikasi sistem antrian bank dengan tujuan untuk meminimalisir kesalah dalam sebuah perusahaan. Aplikasi ini dibuat dengan menggunakan topik struktur data dengan bahasan Linked List, Stack, Queue yang telah dipelajari selama Praktikum Struktur Data.
+
 
 
 ## Tujuan dan Manfaat
