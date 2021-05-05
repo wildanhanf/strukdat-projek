@@ -33,7 +33,7 @@ Kelompok kami akan merancang sebuah aplikasi sistem pelayanan bank yang nantinya
 https://www.figma.com/file/3URwJADZ55CtZ1hgzLNIYp/Rancangan-Antarmuka-Program-Sistem-Pelayanan-Bank?node-id=0%3A1
 
 ## Rencana Pengerjaan Projek
-Tidak terdapat pembagian tugas secara spesifik dalam kelompok kami, pekerjaan dikerjakan secara bersamaan. Setiap anggota saling membantu di setiap bagian yang sedang dikerjakan. Dalam pengerjaan projek ini kami menggunakan menggunakan beberapa aplikasi untuk membantu dalam pengerjaan tugas, yaitu dengan discord, github, google docs, dan Line.
+Untuk saat ini, belum terdapat pembagian tugas secara spesifik dalam kelompok kami, pekerjaan dikerjakan secara bersamaan. Setiap anggota saling membantu di setiap bagian yang sedang dikerjakan. Dalam pengerjaan projek ini kami menggunakan menggunakan beberapa aplikasi untuk membantu dalam pengerjaan tugas, yaitu dengan discord, github, google docs, dan Line.
 
 ## Lisensi
 
