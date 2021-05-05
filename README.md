@@ -8,12 +8,13 @@ Anggota Kelompok:
 ## Latar Belakang
 Struktur data adalah cara penyimpanan, pengorganisasian, dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Terdapat berbagai tipe struktur data. Dalam penerapan struktur data, dapat diimplementasikan pada sistem antrian. Sistem antrian sederhana bisa saja tidak efektif ketika jumlah pelanggan memenuhi kapasitas yang bisa ditangani. Hal tersebut dapat menyebabkan terjadinya kesalah  yang dapat memberikan dampak buruk bagi suatu perusahaan.
 
-Projek ini dimaksudkan untuk membahas mengenai pembuatan aplikasi sistem antrian bank dengan tujuan untuk meminimalisir kesalah dalam sebuah perusahaan. Aplikasi ini dibuat dengan menggunakan topik struktur data dengan bahasan Linked List, Stack, Queue yang telah dipelajari selama Praktikum Struktur Data.
+Projek ini dimaksudkan untuk membahas mengenai pembuatan aplikasi sistem antrian bank dengan tujuan untuk meminimalisir kesalahan dalam sebuah perusahaan. Aplikasi ini dibuat dengan menggunakan topik struktur data dengan bahasan Linked List, Stack, Queue yang telah dipelajari selama Praktikum Struktur Data.
 
 ## Tujuan dan Manfaat
 Tujuan dari proposal ini adalah :
 - Menampilkan pembuatan program antrian sederhana dalam bahasa C++ dengan menggunakan struktur data
 - Menjelaskan metode pengerjaan yang digunakan dalam membuat program antrian sederhana
+
 Manfaat dari proposal ini adalah :
 - Sebagai dasar dalam pembuatan suatu program sederhana dengan struktur data
 - Sebagai sarana eksplorasi struktur data melalui pembuatan program antrian
