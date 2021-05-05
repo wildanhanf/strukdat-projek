@@ -21,9 +21,7 @@ Manfaat dari proposal ini adalah :
 
 ## Penjelasan Aplikasi
 Kelompok kami akan merancang sebuah aplikasi sistem pelayanan bank yang nantinya dapat dijalankan melalui command-line oleh user, bahasa yang dipakai pada pembuatan aplikasi ini menggunakan bahasa pemrograman C++. Dengan fitur sebagai berikut :
-- Menambah data teller
 - Menambah daftar antrian nasabah
-- Menghapus data teller
 - Menghapus data daftar antrian nasabah
 - Menampilkan data antrian nasabah
 - Menampilkan data teller
