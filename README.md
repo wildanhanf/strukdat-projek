@@ -24,7 +24,7 @@ Kelompok kami akan merancang sebuah aplikasi sistem pelayanan bank yang nantinya
 - Menambah daftar antrian nasabah
 - Menghapus data daftar antrian nasabah
 - Menampilkan data antrian nasabah
-- Menampilkan data teller
+- Edit data antrian nasabah
 - Manggil nasabah
 - Menampilkan data history pelayanan nasabah
 
