@@ -24,14 +24,13 @@ int main(){
         insert_last(Head,newT);
     }
 
-    //traversal_teller(Head);
     
     do
     {
         system("pause");
         system("cls");
-        std::cout << "==============================================" <<std::endl;
-        std::cout << "  Program Antrian Pelayanan Bank Jago" <<std::endl;
+        std::cout << "=============================================="   <<std::endl;
+        std::cout << "      Program Antrian Pelayanan Bank Jago     "   <<std::endl;
         std::cout << "==============================================\n" <<std::endl;
         std::cout << " 1. Tambah Daftar Antrian Nasabah"<<std::endl;
         std::cout << " 2. Edit Data Antrian Nasabah"<<std::endl;
@@ -40,7 +39,7 @@ int main(){
         std::cout << " 5. Panggil Nasabah"<<std::endl;
         std::cout << " 6. Tampilkan data history pelayanan nasabah"<<std::endl;
         std::cout << " 0. Exit"<<std::endl;
-        std::cout << "=============================================="<<std::endl;
+        std::cout << "----------------------------------------------"<<std::endl;
         std::cout << "Pilih Menu: ";
         std::cin >> menu;
 
@@ -48,6 +47,7 @@ int main(){
         {
         case 1:
             // Memasukkan Nasabah ke Dalam Queue
+            system("pause");
             system("cls");
             std::cout <<"=============================================="<<std::endl;
             std::cout <<"\t\tMasukkan Data Nasabah"<<std::endl;
@@ -81,7 +81,7 @@ int main(){
             // Melihat Data Antrian Pada Setiap Teller 
             system("cls");
             std::cout<<"=============================================="<<std::endl;
-            std::cout<<"       Data Antrian Teller Bank Jago          "<<std::endl;       
+            std::cout<<"         Data Antrian Teller Bank Jago        "<<std::endl;       
             std::cout<<"=============================================="<<std::endl;
             traversal_pelayanan(Head);
             break;
@@ -89,16 +89,13 @@ int main(){
             // Memanggil Nasabah Untuk Mengunjungin Teller yang Dipilih 
             // Serta Memasukkan Nasabah ke Dalam Stack
             system("cls");
-            dequeueN(Head,key, pDel_N);
-            create_stack(newH,pDel_N);
-            isEmpty(Top);
-            push(Top, newH);
+            dequeueN(Head,key, pDel_N, pCari_T, newH, Top);
             break;
         case 6 :
             // Menampilkan History Pelayanan
             system("cls");
             std::cout <<"=============================================="<<std::endl;
-            std::cout <<"\t\tHistory Pelayanan"<<std::endl;
+            std::cout <<"          History Pelayanan Bank Jago         "<<std::endl;
             std::cout <<"=============================================="<<std::endl;
             print_history(Top);
             break;

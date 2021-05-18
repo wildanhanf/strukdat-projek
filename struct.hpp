@@ -1,37 +1,38 @@
 #pragma once
 #include <iostream>
 
-const int maxNasabah = 10;
-
+// Struct Nasabah
 struct nasabah
 {
     char nama[50];
+    char jk[1];
     nasabah* next;
 };
 
+// Struck Queue
 struct queue 
 {
-    nasabah* Head; // 
+    nasabah* Head; 
     nasabah* Tail;
 };
 
+// Struck Stack
 struct stack
 {
     std::string nama;
+    std::string jk;
+    int no;
     stack* next;
 };
 
+// Struck Teller
 struct teller
 {
     int no;
     teller* next;
-    //nasabah* first_nasabah;
-    queue antrian; // 
-    stack history;
+    queue antrian;
 };
 
-
-stack Top;
 typedef nasabah* pointerN;
 typedef teller* pointerT;
 typedef stack* pointerH;
